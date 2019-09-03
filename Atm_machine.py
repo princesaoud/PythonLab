@@ -31,4 +31,3 @@ if amount < 100:
     print("you have withdraw all possible amount")
     print("Check your receipt")
     print(receipt)
-    print("mamadou")
