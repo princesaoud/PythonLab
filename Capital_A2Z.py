@@ -6,4 +6,4 @@ x = ord('A')
 n = ord('Z')
 
 for i in range(x, n+1):
-    print(chr(i)),
+    print(chr(i))
