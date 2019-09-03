@@ -25,5 +25,5 @@ while choice == "yes" or choice == "y":
     elif choice == 4:
         print("{0} / {1} = {2} ".format(one, two, one / two))
 
-    print ("Do you want to do more ?")
+    print ("Do you want to do more ? enter yes or y")
     choice = raw_input()
