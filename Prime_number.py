@@ -22,4 +22,4 @@ def prime_number():
 
 while y == "yes" or y == "y":
     prime_number()
-    y = input("Do you want to test more ?")
+    y = raw_input("Do you want to test more ?")
