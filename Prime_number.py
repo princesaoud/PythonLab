@@ -3,13 +3,13 @@ y = "yes"
 
 
 def prime_number():
-    number = input("Enter a number i said a number enter a bullshit and ill kill you ")
+    number = input("Enter a number ")
 
     temp = 1
     prime = True
     while temp < number / 2:
         temp += 1
-        print(number, temp, number/temp)
+        # print(number, temp, number/temp)
         if number % temp == 0:
             prime = False
             break
